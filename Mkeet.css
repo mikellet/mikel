@@ -1,0 +1,10 @@
+body {
+	background: #999;
+}
+h1{
+			background-color: blue;
+		}
+		a:hover{color: #FFCC00}
+		a:link{color: #000000}
+		a:visited{color: #006600}
+		a:active{color: #FF00CC}
